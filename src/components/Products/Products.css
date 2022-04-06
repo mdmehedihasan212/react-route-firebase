@@ -1,0 +1,13 @@
+.product-container {
+    margin: 20px;
+    padding: 20px;
+}
+
+.product-container img {
+    width: 180px;
+}
+
+.product-container a {
+    text-decoration: none;
+
+}
